@@ -2,7 +2,9 @@
 
 This is a basic repo to help with setting up and running a new Go project. Includes package/dependency management, importing an external package, and building and running a simple command-line application. 
 
-I have a few short notes and resources on go in my [devnotes](https://github.com/dscruggs/devnotes) repo [here](https://github.com/dscruggs/devnotes/blob/main/quickref/go.md)      .
+I have a few short notes and resources on go in my [devnotes](https://github.com/dscruggs/devnotes) repo [here](https://github.com/dscruggs/devnotes/blob/main/quickref/go.md).
+
+`go mod init <module_name>` to set up a new go module
 
 ## Project Structure
 
